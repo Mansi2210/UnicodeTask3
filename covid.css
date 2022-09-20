@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(122, 175, 222, 0.756);
+    background-image: linear-gradient(to right,rgb(129, 151, 225),rgba(255, 255, 255, 0.563));
+    background-size: cover;
+    object-fit: contain;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(39, 39, 91);
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 100px;
+    padding-left: 30px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+.head{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(39, 39, 91);
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 30px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 60px;
+}
+th{
+    font-size: 30px;
+}
+table{
+    margin-left: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(59, 59, 85);
+}
